@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    background-color: black;
+}
+
+nav li {
+    display: inline;
+    padding: 5rem;
+    color: white;
+}
