@@ -1,12 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+nav {
+    background-color: black;
+    padding: 1rem;
+}
 
 nav ul {
     list-style: none;
     text-align: center;
-    background-color: black;
 }
 
 nav li {
